@@ -1,3 +1,9 @@
+* **Name**-Ayushman Dash
+* **Registration Number**- 25BAS10028
+* **Branch**- Aerospace Engineering
+* **Course Code**- CSA2001
+* **Year**- 1st Year
+
 #  Aviation Delay Predictor: AI-Driven Flight Status System
 
 ##  Overview
