@@ -57,5 +57,5 @@ The global aviation industry operates on complex schedules where a single mornin
 
 ## 🛠️ Troubleshooting the Installation
 * "Python is not recognized": Ensure Python 3.10 or higher is installed and added to your system PATH.
-* "File Not Found": Double-check that your flight_data_large.csv is inside a folder named data.
-* "ModuleNotFoundError": This means Step 3 failed; try running pip install pandas scikit-learn manually.
+* "File Not Found": Double-check that your flight_data.csv is inside the folder where the estimator file is present
+* "ModuleNotFoundError": try running pip install pandas scikit-learn manually.
