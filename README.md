@@ -55,7 +55,7 @@ The global aviation industry operates on complex schedules where a single mornin
 * Cancellation Scenario: Input United, Stormy, Evening -> Expected: CANCELLED 
 * Delay Scenario: Input Southwest, Rainy, Afternoon -> Expected: DELAYED 
 
-## 🛠️ Troubleshooting the Installation
+##  Troubleshooting the Installation
 * "Python is not recognized": Ensure Python 3.10 or higher is installed and added to your system PATH.
 * "File Not Found": Double-check that your flight_data.csv is inside the folder where the estimator file is present
 * "ModuleNotFoundError": try running pip install pandas scikit-learn manually.
